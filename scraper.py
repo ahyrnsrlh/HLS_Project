@@ -1,4 +1,5 @@
-import requests
+import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
@@ -9,15 +10,30 @@ from config import BASE_URL, HEADERS, START_PAGE, END_PAGE, OUTPUT_CSV
 # List untuk menyimpan hasil scraping
 data_list = []
 
-def scrape_sinta():
-    for page in range(START_PAGE, END_PAGE + 1):
-        url = BASE_URL.format(page)
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, "html.parser")
-                
-                # Ambil semua publikasi dari halaman
+async def fetch(session, url):
+    try:
+        async with session.get(url, headers=HEADERS, timeout=10) as response:
+            if response.status == 200:
+                return await response.text()
+            else:
+                logging.warning(f"⚠️ Gagal mengakses {url}, status: {response.status}")
+                return None
+    except Exception as e:
+        logging.error(f"❌ Error fetching {url}: {str(e)}")
+        return None
+
+async def scrape_sinta():
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        for page in range(START_PAGE, END_PAGE + 1):
+            url = BASE_URL.format(page)
+            tasks.append(fetch(session, url))
+
+        responses = await asyncio.gather(*tasks)
+
+        for page, html_content in zip(range(START_PAGE, END_PAGE + 1), responses):
+            if html_content:
+                soup = BeautifulSoup(html_content, "html.parser")
                 publications = soup.select(".ar-list-item")  # Selector publikasi
 
                 for pub in publications:
@@ -26,7 +42,6 @@ def scrape_sinta():
                     year = pub.select_one(".year").text.strip() if pub.select_one(".year") else "N/A"
                     citations = pub.select_one(".citations").text.strip() if pub.select_one(".citations") else "0"
                     
-                    # Link ke Google Scholar
                     gs_link_element = pub.select_one("a[href*='scholar.google.com']")
                     gs_link = gs_link_element["href"] if gs_link_element else "N/A"
 
@@ -40,16 +55,16 @@ def scrape_sinta():
                     })
 
                 logging.info(f"✅ {page} - {len(publications)} publikasi berhasil di-scrape")
-            else:
-                logging.warning(f"⚠️ {page} - Gagal mengakses halaman, status: {response.status_code}")
 
-        except Exception as e:
-            logging.error(f"❌ Error scraping {page}: {str(e)}")
+        # Simpan ke CSV
+        df = pd.DataFrame(data_list)
+        df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
+        logging.info(f"🎉 Scraping selesai! Data tersimpan di {OUTPUT_CSV}")
 
-        # Delay untuk menghindari pemblokiran
-        time.sleep(random.uniform(1, 3))
+def main():
+    logging.info("Memulai scraping publikasi dari SINTA...")
+    asyncio.run(scrape_sinta())
+    logging.info("Scraping selesai! Data tersimpan di data/data_sinta.csv")
 
-    # Simpan ke CSV
-    df = pd.DataFrame(data_list)
-    df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
-    logging.info(f"🎉 Scraping selesai! Data tersimpan di {OUTPUT_CSV}")
+if __name__ == "__main__":
+    main()

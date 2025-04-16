@@ -100,3 +100,9 @@
 2025-03-25 19:07:38,576 - \u274c Error scraping 2508: HTTPSConnectionPool(host='sinta.kemdikbud.go.id', port=443): Read timed out. (read timeout=10)
 2025-03-25 19:07:59,279 - \u274c Error scraping 2509: HTTPSConnectionPool(host='sinta.kemdikbud.go.id', port=443): Read timed out. (read timeout=10)
 2025-03-25 19:08:12,323 - \u274c Error scraping 2510: HTTPSConnectionPool(host='sinta.kemdikbud.go.id', port=443): Read timed out. (read timeout=10)
+2025-04-16 23:03:25,819 - Memulai scraping publikasi dari SINTA...
+2025-04-16 23:03:25,820 - \u274c Error during scraping: scrape_sinta() takes 0 positional arguments but 3 were given
+2025-04-16 23:03:25,820 - Scraping selesai! Data tersimpan di data/data_sinta.csv
+2025-04-16 23:04:19,738 - Memulai scraping publikasi dari SINTA...
+2025-04-16 23:04:19,738 - \u274c Error during scraping: scrape_sinta() takes 0 positional arguments but 3 were given
+2025-04-16 23:04:19,739 - Scraping selesai! Data tersimpan di data/data_sinta.csv
