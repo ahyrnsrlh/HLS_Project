@@ -106,3 +106,6 @@
 2025-04-16 23:04:19,738 - Memulai scraping publikasi dari SINTA...
 2025-04-16 23:04:19,738 - \u274c Error during scraping: scrape_sinta() takes 0 positional arguments but 3 were given
 2025-04-16 23:04:19,739 - Scraping selesai! Data tersimpan di data/data_sinta.csv
+2025-04-16 23:23:38,114 - Memulai scraping publikasi dari SINTA...
+2025-04-16 23:23:38,115 - \u274c Error during scraping: scrape_sinta() takes 0 positional arguments but 3 were given
+2025-04-16 23:23:38,115 - Scraping selesai! Data tersimpan di data/data_sinta.csv
