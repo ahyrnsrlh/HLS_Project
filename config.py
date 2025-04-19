@@ -6,5 +6,5 @@ HEADERS = [
     {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"},
 ]
 START_PAGE = 2503
-END_PAGE = 3337
+END_PAGE = 3336
 OUTPUT_CSV = "data/data_sinta.csv"

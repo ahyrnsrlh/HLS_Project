@@ -132,3 +132,1839 @@
 2025-04-19 16:55:04,640 - \u2705 2510 - 10 publikasi berhasil di-scrape
 2025-04-19 16:55:04,646 - \U0001f389 Scraping selesai! Data tersimpan di data/data_sinta_final.csv
 2025-04-19 16:55:04,648 - Scraping selesai! Data tersimpan di data/data_sinta_final.csv
+2025-04-19 17:14:40,883 - Memulai scraping publikasi dari SINTA...
+2025-04-19 17:14:50,984 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar: 
+2025-04-19 17:14:51,004 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3320/?view=googlescholar: 
+2025-04-19 17:14:51,006 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3320/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar: 
+2025-04-19 17:14:51,008 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar: 
+2025-04-19 17:14:51,009 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar: 
+2025-04-19 17:14:51,010 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar: 
+2025-04-19 17:14:51,011 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar: 
+2025-04-19 17:14:51,011 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar: 
+2025-04-19 17:14:51,012 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar: 
+2025-04-19 17:14:51,012 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar: 
+2025-04-19 17:14:51,013 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3316/?view=googlescholar: 
+2025-04-19 17:14:51,013 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3316/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar: 
+2025-04-19 17:14:51,014 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar: 
+2025-04-19 17:14:51,014 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar: 
+2025-04-19 17:14:51,015 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar: 
+2025-04-19 17:14:51,015 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar: 
+2025-04-19 17:14:51,016 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar: 
+2025-04-19 17:14:51,016 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar: 
+2025-04-19 17:14:51,017 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar: 
+2025-04-19 17:14:51,017 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar: 
+2025-04-19 17:14:51,018 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar: 
+2025-04-19 17:14:51,018 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar: 
+2025-04-19 17:14:51,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar: 
+2025-04-19 17:14:51,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar: 
+2025-04-19 17:14:51,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar: 
+2025-04-19 17:14:51,020 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar: 
+2025-04-19 17:14:51,020 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar: 
+2025-04-19 17:14:51,023 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,024 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar: 
+2025-04-19 17:14:51,024 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,025 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar: 
+2025-04-19 17:14:51,025 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,025 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar: 
+2025-04-19 17:14:51,025 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,026 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar: 
+2025-04-19 17:14:51,026 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,027 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar: 
+2025-04-19 17:14:51,027 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,027 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar: 
+2025-04-19 17:14:51,027 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,028 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar: 
+2025-04-19 17:14:51,028 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,028 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar: 
+2025-04-19 17:14:51,028 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,028 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2573/?view=googlescholar: 
+2025-04-19 17:14:51,028 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2573/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar: 
+2025-04-19 17:14:51,029 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar: 
+2025-04-19 17:14:51,029 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar: 
+2025-04-19 17:14:51,029 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar: 
+2025-04-19 17:14:51,029 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,030 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar: 
+2025-04-19 17:14:51,030 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,030 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar: 
+2025-04-19 17:14:51,030 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,030 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar: 
+2025-04-19 17:14:51,030 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,030 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3249/?view=googlescholar: 
+2025-04-19 17:14:51,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3249/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,031 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar: 
+2025-04-19 17:14:51,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,031 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar: 
+2025-04-19 17:14:51,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,031 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar: 
+2025-04-19 17:14:51,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,032 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3233/?view=googlescholar: 
+2025-04-19 17:14:51,032 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3233/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar: 
+2025-04-19 17:14:51,033 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar: 
+2025-04-19 17:14:51,033 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar: 
+2025-04-19 17:14:51,033 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar: 
+2025-04-19 17:14:51,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,034 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2891/?view=googlescholar: 
+2025-04-19 17:14:51,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2891/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,034 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar: 
+2025-04-19 17:14:51,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,034 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar: 
+2025-04-19 17:14:51,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar: 
+2025-04-19 17:14:51,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar: 
+2025-04-19 17:14:51,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar: 
+2025-04-19 17:14:51,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar: 
+2025-04-19 17:14:51,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar: 
+2025-04-19 17:14:51,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar: 
+2025-04-19 17:14:51,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar: 
+2025-04-19 17:14:51,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar: 
+2025-04-19 17:14:51,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar: 
+2025-04-19 17:14:51,037 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,037 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar: 
+2025-04-19 17:14:51,037 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,037 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar: 
+2025-04-19 17:14:51,037 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,038 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar: 
+2025-04-19 17:14:51,038 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,039 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar: 
+2025-04-19 17:14:51,039 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,040 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar: 
+2025-04-19 17:14:51,040 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,040 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar: 
+2025-04-19 17:14:51,041 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar: 
+2025-04-19 17:14:51,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar: 
+2025-04-19 17:14:51,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar: 
+2025-04-19 17:14:51,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar: 
+2025-04-19 17:14:51,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar: 
+2025-04-19 17:14:51,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar: 
+2025-04-19 17:14:51,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar: 
+2025-04-19 17:14:51,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar: 
+2025-04-19 17:14:51,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar: 
+2025-04-19 17:14:51,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar: 
+2025-04-19 17:14:51,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar: 
+2025-04-19 17:14:51,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar: 
+2025-04-19 17:14:51,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar: 
+2025-04-19 17:14:51,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar: 
+2025-04-19 17:14:51,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar: 
+2025-04-19 17:14:51,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar: 
+2025-04-19 17:14:51,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar: 
+2025-04-19 17:14:51,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar: 
+2025-04-19 17:14:51,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar: 
+2025-04-19 17:14:51,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar: 
+2025-04-19 17:14:51,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar: 
+2025-04-19 17:14:51,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar: 
+2025-04-19 17:14:51,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar: 
+2025-04-19 17:14:51,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar: 
+2025-04-19 17:14:51,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar: 
+2025-04-19 17:14:51,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar: 
+2025-04-19 17:14:51,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar: 
+2025-04-19 17:14:51,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar: 
+2025-04-19 17:14:51,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar: 
+2025-04-19 17:14:51,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar: 
+2025-04-19 17:14:51,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar: 
+2025-04-19 17:14:51,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar: 
+2025-04-19 17:14:51,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar: 
+2025-04-19 17:14:51,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar: 
+2025-04-19 17:14:51,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar: 
+2025-04-19 17:14:51,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar: 
+2025-04-19 17:14:51,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar: 
+2025-04-19 17:14:51,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar: 
+2025-04-19 17:14:51,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar: 
+2025-04-19 17:14:51,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar: 
+2025-04-19 17:14:51,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar: 
+2025-04-19 17:14:51,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,054 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar: 
+2025-04-19 17:14:51,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,054 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar: 
+2025-04-19 17:14:51,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,054 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar: 
+2025-04-19 17:14:51,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,054 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar: 
+2025-04-19 17:14:51,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,055 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar: 
+2025-04-19 17:14:51,055 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,056 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar: 
+2025-04-19 17:14:51,056 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,056 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar: 
+2025-04-19 17:14:51,056 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,056 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar: 
+2025-04-19 17:14:51,056 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,056 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar: 
+2025-04-19 17:14:51,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,058 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar: 
+2025-04-19 17:14:51,058 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,058 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar: 
+2025-04-19 17:14:51,058 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar: 
+2025-04-19 17:14:51,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar: 
+2025-04-19 17:14:51,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar: 
+2025-04-19 17:14:51,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,060 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar: 
+2025-04-19 17:14:51,060 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,061 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar: 
+2025-04-19 17:14:51,061 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,061 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar: 
+2025-04-19 17:14:51,061 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,061 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar: 
+2025-04-19 17:14:51,061 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar: 
+2025-04-19 17:14:51,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar: 
+2025-04-19 17:14:51,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar: 
+2025-04-19 17:14:51,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar: 
+2025-04-19 17:14:51,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,063 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar: 
+2025-04-19 17:14:51,063 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,063 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar: 
+2025-04-19 17:14:51,063 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,063 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar: 
+2025-04-19 17:14:51,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar: 
+2025-04-19 17:14:51,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar: 
+2025-04-19 17:14:51,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar: 
+2025-04-19 17:14:51,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar: 
+2025-04-19 17:14:51,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar: 
+2025-04-19 17:14:51,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar: 
+2025-04-19 17:14:51,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar: 
+2025-04-19 17:14:51,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar: 
+2025-04-19 17:14:51,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar: 
+2025-04-19 17:14:51,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar: 
+2025-04-19 17:14:51,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar: 
+2025-04-19 17:14:51,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar: 
+2025-04-19 17:14:51,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar: 
+2025-04-19 17:14:51,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar: 
+2025-04-19 17:14:51,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar: 
+2025-04-19 17:14:51,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar: 
+2025-04-19 17:14:51,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar: 
+2025-04-19 17:14:51,069 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,069 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar: 
+2025-04-19 17:14:51,069 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:14:51,069 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar: 
+2025-04-19 17:14:51,069 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar (Attempt 2/3)...
+2025-04-19 17:15:03,989 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar: 
+2025-04-19 17:15:03,990 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,990 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar: 
+2025-04-19 17:15:03,990 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,991 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar: 
+2025-04-19 17:15:03,992 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,992 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar: 
+2025-04-19 17:15:03,992 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,993 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar: 
+2025-04-19 17:15:03,993 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,993 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar: 
+2025-04-19 17:15:03,993 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,994 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar: 
+2025-04-19 17:15:03,994 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,994 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar: 
+2025-04-19 17:15:03,995 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,995 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar: 
+2025-04-19 17:15:03,995 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,995 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar: 
+2025-04-19 17:15:03,996 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar: 
+2025-04-19 17:15:03,996 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar: 
+2025-04-19 17:15:03,996 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar: 
+2025-04-19 17:15:03,997 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar: 
+2025-04-19 17:15:03,998 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar: 
+2025-04-19 17:15:03,998 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar: 
+2025-04-19 17:15:03,999 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:03,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar: 
+2025-04-19 17:15:03,999 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar: 
+2025-04-19 17:15:04,000 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar: 
+2025-04-19 17:15:04,000 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar: 
+2025-04-19 17:15:04,001 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar: 
+2025-04-19 17:15:04,001 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar: 
+2025-04-19 17:15:04,001 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar: 
+2025-04-19 17:15:04,002 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar: 
+2025-04-19 17:15:04,002 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar: 
+2025-04-19 17:15:04,002 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar: 
+2025-04-19 17:15:04,003 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar: 
+2025-04-19 17:15:04,003 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar: 
+2025-04-19 17:15:04,004 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar: 
+2025-04-19 17:15:04,005 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,005 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar: 
+2025-04-19 17:15:04,006 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar: 
+2025-04-19 17:15:04,007 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar: 
+2025-04-19 17:15:04,008 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar: 
+2025-04-19 17:15:04,009 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar: 
+2025-04-19 17:15:04,009 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar: 
+2025-04-19 17:15:04,010 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar: 
+2025-04-19 17:15:04,010 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar: 
+2025-04-19 17:15:04,010 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar: 
+2025-04-19 17:15:04,011 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar: 
+2025-04-19 17:15:04,011 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar: 
+2025-04-19 17:15:04,011 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar: 
+2025-04-19 17:15:04,012 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar: 
+2025-04-19 17:15:04,012 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar: 
+2025-04-19 17:15:04,013 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar: 
+2025-04-19 17:15:04,013 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar: 
+2025-04-19 17:15:04,013 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar: 
+2025-04-19 17:15:04,014 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar: 
+2025-04-19 17:15:04,015 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar: 
+2025-04-19 17:15:04,016 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar: 
+2025-04-19 17:15:04,016 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar: 
+2025-04-19 17:15:04,017 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar: 
+2025-04-19 17:15:04,017 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar: 
+2025-04-19 17:15:04,018 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar: 
+2025-04-19 17:15:04,018 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar: 
+2025-04-19 17:15:04,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar: 
+2025-04-19 17:15:04,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar: 
+2025-04-19 17:15:04,019 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar: 
+2025-04-19 17:15:04,020 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar: 
+2025-04-19 17:15:04,020 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar: 
+2025-04-19 17:15:04,021 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar: 
+2025-04-19 17:15:04,024 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,025 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar: 
+2025-04-19 17:15:04,025 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,025 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar: 
+2025-04-19 17:15:04,025 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,026 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar: 
+2025-04-19 17:15:04,026 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,026 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar: 
+2025-04-19 17:15:04,026 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,026 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar: 
+2025-04-19 17:15:04,026 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,026 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar: 
+2025-04-19 17:15:04,026 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,027 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar: 
+2025-04-19 17:15:04,027 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,027 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar: 
+2025-04-19 17:15:04,027 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,028 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar: 
+2025-04-19 17:15:04,028 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,028 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar: 
+2025-04-19 17:15:04,028 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar: 
+2025-04-19 17:15:04,029 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,029 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar: 
+2025-04-19 17:15:04,030 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,031 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar: 
+2025-04-19 17:15:04,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,031 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar: 
+2025-04-19 17:15:04,031 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,032 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar: 
+2025-04-19 17:15:04,032 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,032 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar: 
+2025-04-19 17:15:04,032 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,032 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar: 
+2025-04-19 17:15:04,032 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar: 
+2025-04-19 17:15:04,033 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,033 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar: 
+2025-04-19 17:15:04,033 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,034 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar: 
+2025-04-19 17:15:04,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,034 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar: 
+2025-04-19 17:15:04,034 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2891/?view=googlescholar: 
+2025-04-19 17:15:04,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2891/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,035 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar: 
+2025-04-19 17:15:04,035 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar: 
+2025-04-19 17:15:04,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar: 
+2025-04-19 17:15:04,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,036 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar: 
+2025-04-19 17:15:04,036 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,037 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar: 
+2025-04-19 17:15:04,037 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,037 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar: 
+2025-04-19 17:15:04,037 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,038 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar: 
+2025-04-19 17:15:04,038 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,039 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar: 
+2025-04-19 17:15:04,039 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,040 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar: 
+2025-04-19 17:15:04,040 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,041 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar: 
+2025-04-19 17:15:04,041 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,041 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar: 
+2025-04-19 17:15:04,041 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,041 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar: 
+2025-04-19 17:15:04,041 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,042 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar: 
+2025-04-19 17:15:04,042 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,042 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar: 
+2025-04-19 17:15:04,042 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,042 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar: 
+2025-04-19 17:15:04,042 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,042 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar: 
+2025-04-19 17:15:04,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar: 
+2025-04-19 17:15:04,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar: 
+2025-04-19 17:15:04,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,043 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar: 
+2025-04-19 17:15:04,043 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar: 
+2025-04-19 17:15:04,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar: 
+2025-04-19 17:15:04,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar: 
+2025-04-19 17:15:04,044 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,044 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar: 
+2025-04-19 17:15:04,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar: 
+2025-04-19 17:15:04,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar: 
+2025-04-19 17:15:04,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,045 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar: 
+2025-04-19 17:15:04,045 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar: 
+2025-04-19 17:15:04,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar: 
+2025-04-19 17:15:04,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar: 
+2025-04-19 17:15:04,046 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,046 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar: 
+2025-04-19 17:15:04,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar: 
+2025-04-19 17:15:04,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar: 
+2025-04-19 17:15:04,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,047 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar: 
+2025-04-19 17:15:04,047 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar: 
+2025-04-19 17:15:04,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar: 
+2025-04-19 17:15:04,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,048 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar: 
+2025-04-19 17:15:04,048 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar: 
+2025-04-19 17:15:04,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar: 
+2025-04-19 17:15:04,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar: 
+2025-04-19 17:15:04,049 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,049 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar: 
+2025-04-19 17:15:04,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar: 
+2025-04-19 17:15:04,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar: 
+2025-04-19 17:15:04,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar: 
+2025-04-19 17:15:04,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,050 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar: 
+2025-04-19 17:15:04,050 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar: 
+2025-04-19 17:15:04,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar: 
+2025-04-19 17:15:04,051 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,051 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar: 
+2025-04-19 17:15:04,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar: 
+2025-04-19 17:15:04,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,052 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar: 
+2025-04-19 17:15:04,052 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar: 
+2025-04-19 17:15:04,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,053 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar: 
+2025-04-19 17:15:04,053 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,054 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar: 
+2025-04-19 17:15:04,054 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,055 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar: 
+2025-04-19 17:15:04,056 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,056 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar: 
+2025-04-19 17:15:04,056 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar: 
+2025-04-19 17:15:04,057 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,057 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar: 
+2025-04-19 17:15:04,058 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,058 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar: 
+2025-04-19 17:15:04,058 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,058 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar: 
+2025-04-19 17:15:04,058 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar: 
+2025-04-19 17:15:04,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar: 
+2025-04-19 17:15:04,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,059 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar: 
+2025-04-19 17:15:04,059 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,060 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar: 
+2025-04-19 17:15:04,060 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,060 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar: 
+2025-04-19 17:15:04,060 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,060 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar: 
+2025-04-19 17:15:04,060 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,061 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar: 
+2025-04-19 17:15:04,061 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,061 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar: 
+2025-04-19 17:15:04,061 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar: 
+2025-04-19 17:15:04,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,062 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar: 
+2025-04-19 17:15:04,062 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,063 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar: 
+2025-04-19 17:15:04,063 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,063 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar: 
+2025-04-19 17:15:04,063 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar: 
+2025-04-19 17:15:04,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar: 
+2025-04-19 17:15:04,064 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,064 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar: 
+2025-04-19 17:15:04,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar: 
+2025-04-19 17:15:04,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar: 
+2025-04-19 17:15:04,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,065 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar: 
+2025-04-19 17:15:04,065 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar: 
+2025-04-19 17:15:04,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar: 
+2025-04-19 17:15:04,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,066 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar: 
+2025-04-19 17:15:04,066 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar: 
+2025-04-19 17:15:04,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar: 
+2025-04-19 17:15:04,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,067 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar: 
+2025-04-19 17:15:04,067 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:04,068 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar: 
+2025-04-19 17:15:04,068 - \U0001f504 Retrying https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar (Attempt 3/3)...
+2025-04-19 17:15:16,994 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar: 
+2025-04-19 17:15:16,995 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3319/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,995 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar: 
+2025-04-19 17:15:16,995 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3292/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,995 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar: 
+2025-04-19 17:15:16,995 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3296/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar: 
+2025-04-19 17:15:16,996 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2847/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar: 
+2025-04-19 17:15:16,996 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3328/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar: 
+2025-04-19 17:15:16,996 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2820/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,996 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar: 
+2025-04-19 17:15:16,996 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3322/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar: 
+2025-04-19 17:15:16,997 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2750/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar: 
+2025-04-19 17:15:16,997 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2581/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar: 
+2025-04-19 17:15:16,997 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2944/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar: 
+2025-04-19 17:15:16,997 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2669/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar: 
+2025-04-19 17:15:16,997 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2661/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,997 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2586/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2696/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3314/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3123/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2678/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,998 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar: 
+2025-04-19 17:15:16,998 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3054/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3022/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3332/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2951/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2816/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3015/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar: 
+2025-04-19 17:15:16,999 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3173/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:16,999 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3115/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2883/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3297/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2921/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2680/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2546/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,000 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar: 
+2025-04-19 17:15:17,000 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2840/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3293/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2946/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2908/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2808/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2942/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2507/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,001 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar: 
+2025-04-19 17:15:17,001 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2598/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2832/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3228/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3331/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2996/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3264/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2649/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2987/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,002 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar: 
+2025-04-19 17:15:17,002 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2777/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3303/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3325/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2703/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2772/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2597/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2901/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar: 
+2025-04-19 17:15:17,003 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2981/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,003 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar: 
+2025-04-19 17:15:17,004 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2906/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar: 
+2025-04-19 17:15:17,004 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2513/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar: 
+2025-04-19 17:15:17,004 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2841/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar: 
+2025-04-19 17:15:17,004 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2602/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar: 
+2025-04-19 17:15:17,004 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2665/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,004 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar: 
+2025-04-19 17:15:17,005 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2826/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,005 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar: 
+2025-04-19 17:15:17,005 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2999/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,005 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar: 
+2025-04-19 17:15:17,005 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3110/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,005 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar: 
+2025-04-19 17:15:17,005 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3329/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,005 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3069/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2878/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3256/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2612/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2516/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2688/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,006 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar: 
+2025-04-19 17:15:17,006 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2844/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2781/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3323/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3300/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3288/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2838/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,007 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar: 
+2025-04-19 17:15:17,007 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3006/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar: 
+2025-04-19 17:15:17,008 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3308/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar: 
+2025-04-19 17:15:17,008 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3306/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar: 
+2025-04-19 17:15:17,008 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2517/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,008 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar: 
+2025-04-19 17:15:17,008 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3195/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar: 
+2025-04-19 17:15:17,009 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2889/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar: 
+2025-04-19 17:15:17,009 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3307/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,009 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar: 
+2025-04-19 17:15:17,009 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2659/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar: 
+2025-04-19 17:15:17,010 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3088/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar: 
+2025-04-19 17:15:17,010 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2641/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,010 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar: 
+2025-04-19 17:15:17,010 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2657/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar: 
+2025-04-19 17:15:17,011 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2893/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar: 
+2025-04-19 17:15:17,011 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2974/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar: 
+2025-04-19 17:15:17,011 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2926/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,011 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar: 
+2025-04-19 17:15:17,012 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2544/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar: 
+2025-04-19 17:15:17,012 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3186/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar: 
+2025-04-19 17:15:17,012 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2638/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,012 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar: 
+2025-04-19 17:15:17,012 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3326/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar: 
+2025-04-19 17:15:17,013 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3324/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar: 
+2025-04-19 17:15:17,013 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3318/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar: 
+2025-04-19 17:15:17,013 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3333/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar: 
+2025-04-19 17:15:17,013 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2897/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,013 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar: 
+2025-04-19 17:15:17,013 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3034/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3162/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3231/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3294/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2854/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3334/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2508/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2814/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3154/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2873/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar: 
+2025-04-19 17:15:17,014 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3315/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,014 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3148/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3310/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2639/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2603/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2725/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2843/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2914/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar: 
+2025-04-19 17:15:17,015 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3290/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,015 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2971/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2896/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2785/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2822/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3089/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2555/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2605/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2823/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2988/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,016 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar: 
+2025-04-19 17:15:17,016 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3327/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2810/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3330/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3335/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2902/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3311/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3227/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar: 
+2025-04-19 17:15:17,017 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3009/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,017 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3336/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2668/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2800/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3104/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2852/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2984/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,018 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar: 
+2025-04-19 17:15:17,018 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3221/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3337/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3012/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3260/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3312/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2905/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3317/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,019 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar: 
+2025-04-19 17:15:17,019 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3304/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2899/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2584/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2924/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2754/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3265/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3137/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,020 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar: 
+2025-04-19 17:15:17,020 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3214/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,021 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar: 
+2025-04-19 17:15:17,021 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3216/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,021 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar: 
+2025-04-19 17:15:17,021 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3160/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,021 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar: 
+2025-04-19 17:15:17,021 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3313/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,022 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar: 
+2025-04-19 17:15:17,022 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3321/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,022 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar: 
+2025-04-19 17:15:17,022 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2531/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar: 
+2025-04-19 17:15:17,023 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2732/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar: 
+2025-04-19 17:15:17,023 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3301/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar: 
+2025-04-19 17:15:17,023 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2601/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,023 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar: 
+2025-04-19 17:15:17,023 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3279/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,024 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar: 
+2025-04-19 17:15:17,024 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/3128/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,024 - \u274c Error fetching https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar: 
+2025-04-19 17:15:17,024 - \u274c Failed to fetch https://sinta.kemdikbud.go.id/affiliations/profile/2652/?view=googlescholar after 3 attempts.
+2025-04-19 17:15:17,054 - \u2705 2503 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,064 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2504
+2025-04-19 17:15:17,079 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2505
+2025-04-19 17:15:17,102 - \u2705 2506 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,102 - \u274c No content returned for page 2507.
+2025-04-19 17:15:17,102 - \u274c No content returned for page 2508.
+2025-04-19 17:15:17,115 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2509
+2025-04-19 17:15:17,135 - \u2705 2510 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,153 - \u2705 2511 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,175 - \u2705 2512 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,176 - \u274c No content returned for page 2513.
+2025-04-19 17:15:17,185 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2514
+2025-04-19 17:15:17,204 - \u2705 2515 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,204 - \u274c No content returned for page 2516.
+2025-04-19 17:15:17,204 - \u274c No content returned for page 2517.
+2025-04-19 17:15:17,223 - \u2705 2518 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,241 - \u2705 2519 - 4 publikasi berhasil di-scrape
+2025-04-19 17:15:17,263 - \u2705 2520 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,280 - \u2705 2521 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,298 - \u2705 2522 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,317 - \u2705 2523 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,335 - \u2705 2524 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,356 - \u2705 2525 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,366 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2526
+2025-04-19 17:15:17,386 - \u2705 2527 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,412 - \u2705 2528 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,429 - \u2705 2529 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,447 - \u2705 2530 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,447 - \u274c No content returned for page 2531.
+2025-04-19 17:15:17,467 - \u2705 2532 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,485 - \u2705 2533 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,505 - \u2705 2534 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,523 - \u2705 2535 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,533 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2536
+2025-04-19 17:15:17,600 - \u2705 2537 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,620 - \u2705 2538 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,641 - \u2705 2539 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,660 - \u2705 2540 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,684 - \u2705 2541 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,695 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2542
+2025-04-19 17:15:17,706 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2543
+2025-04-19 17:15:17,706 - \u274c No content returned for page 2544.
+2025-04-19 17:15:17,727 - \u2705 2545 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,727 - \u274c No content returned for page 2546.
+2025-04-19 17:15:17,748 - \u2705 2547 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,777 - \u2705 2548 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,797 - \u2705 2549 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,815 - \u2705 2550 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,833 - \u2705 2551 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,854 - \u2705 2552 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,872 - \u2705 2553 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,890 - \u2705 2554 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,890 - \u274c No content returned for page 2555.
+2025-04-19 17:15:17,907 - \u2705 2556 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,934 - \u2705 2557 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,953 - \u2705 2558 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,973 - \u2705 2559 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:17,999 - \u2705 2560 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,018 - \u2705 2561 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,034 - \u2705 2562 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,051 - \u2705 2563 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,079 - \u2705 2564 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,099 - \u2705 2565 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,120 - \u2705 2566 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,143 - \u2705 2567 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,165 - \u2705 2568 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,185 - \u2705 2569 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,197 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2570
+2025-04-19 17:15:18,216 - \u2705 2571 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,237 - \u2705 2572 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,263 - \u2705 2573 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,282 - \u2705 2574 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,295 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2575
+2025-04-19 17:15:18,314 - \u2705 2576 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,326 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2577
+2025-04-19 17:15:18,347 - \u2705 2578 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,368 - \u2705 2579 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,387 - \u2705 2580 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,387 - \u274c No content returned for page 2581.
+2025-04-19 17:15:18,413 - \u2705 2582 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,433 - \u2705 2583 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,433 - \u274c No content returned for page 2584.
+2025-04-19 17:15:18,452 - \u2705 2585 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,452 - \u274c No content returned for page 2586.
+2025-04-19 17:15:18,464 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2587
+2025-04-19 17:15:18,475 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2588
+2025-04-19 17:15:18,493 - \u2705 2589 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,514 - \u2705 2590 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,534 - \u2705 2591 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,546 - \u2705 2592 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:18,575 - \u2705 2593 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,596 - \u2705 2594 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,614 - \u2705 2595 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,633 - \u2705 2596 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,633 - \u274c No content returned for page 2597.
+2025-04-19 17:15:18,633 - \u274c No content returned for page 2598.
+2025-04-19 17:15:18,653 - \u2705 2599 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,675 - \u2705 2600 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,675 - \u274c No content returned for page 2601.
+2025-04-19 17:15:18,675 - \u274c No content returned for page 2602.
+2025-04-19 17:15:18,675 - \u274c No content returned for page 2603.
+2025-04-19 17:15:18,695 - \u2705 2604 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,695 - \u274c No content returned for page 2605.
+2025-04-19 17:15:18,706 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2606
+2025-04-19 17:15:18,729 - \u2705 2607 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,740 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2608
+2025-04-19 17:15:18,761 - \u2705 2609 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,773 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2610
+2025-04-19 17:15:18,792 - \u2705 2611 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,792 - \u274c No content returned for page 2612.
+2025-04-19 17:15:18,803 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2613
+2025-04-19 17:15:18,822 - \u2705 2614 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,845 - \u2705 2615 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,866 - \u2705 2616 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,883 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2617
+2025-04-19 17:15:18,906 - \u2705 2618 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,926 - \u2705 2619 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,945 - \u2705 2620 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,964 - \u2705 2621 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:18,984 - \u2705 2622 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,003 - \u2705 2623 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,028 - \u2705 2624 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,053 - \u2705 2625 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,064 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2626
+2025-04-19 17:15:19,075 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2627
+2025-04-19 17:15:19,095 - \u2705 2628 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,109 - \u2705 2629 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:19,130 - \u2705 2630 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,149 - \u2705 2631 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,161 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2632
+2025-04-19 17:15:19,180 - \u2705 2633 - 9 publikasi berhasil di-scrape
+2025-04-19 17:15:19,203 - \u2705 2634 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,225 - \u2705 2635 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,243 - \u2705 2636 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,269 - \u2705 2637 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,269 - \u274c No content returned for page 2638.
+2025-04-19 17:15:19,269 - \u274c No content returned for page 2639.
+2025-04-19 17:15:19,288 - \u2705 2640 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,289 - \u274c No content returned for page 2641.
+2025-04-19 17:15:19,309 - \u2705 2642 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,329 - \u2705 2643 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,349 - \u2705 2644 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,364 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2645
+2025-04-19 17:15:19,436 - \u2705 2646 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,459 - \u2705 2647 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,469 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2648
+2025-04-19 17:15:19,469 - \u274c No content returned for page 2649.
+2025-04-19 17:15:19,490 - \u2705 2650 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,499 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2651
+2025-04-19 17:15:19,499 - \u274c No content returned for page 2652.
+2025-04-19 17:15:19,524 - \u2705 2653 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,536 - \u2705 2654 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:19,549 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2655
+2025-04-19 17:15:19,561 - \u2705 2656 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:19,561 - \u274c No content returned for page 2657.
+2025-04-19 17:15:19,590 - \u2705 2658 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,590 - \u274c No content returned for page 2659.
+2025-04-19 17:15:19,600 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2660
+2025-04-19 17:15:19,600 - \u274c No content returned for page 2661.
+2025-04-19 17:15:19,621 - \u2705 2662 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,631 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2663
+2025-04-19 17:15:19,654 - \u2705 2664 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,654 - \u274c No content returned for page 2665.
+2025-04-19 17:15:19,675 - \u2705 2666 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,698 - \u2705 2667 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,698 - \u274c No content returned for page 2668.
+2025-04-19 17:15:19,698 - \u274c No content returned for page 2669.
+2025-04-19 17:15:19,717 - \u2705 2670 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,743 - \u2705 2671 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,761 - \u2705 2672 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,782 - \u2705 2673 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,801 - \u2705 2674 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,819 - \u2705 2675 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,837 - \u2705 2676 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,860 - \u2705 2677 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,860 - \u274c No content returned for page 2678.
+2025-04-19 17:15:19,875 - \u2705 2679 - 6 publikasi berhasil di-scrape
+2025-04-19 17:15:19,875 - \u274c No content returned for page 2680.
+2025-04-19 17:15:19,898 - \u2705 2681 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,923 - \u2705 2682 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,944 - \u2705 2683 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:19,954 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2684
+2025-04-19 17:15:19,970 - \u2705 2685 - 6 publikasi berhasil di-scrape
+2025-04-19 17:15:19,990 - \u2705 2686 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,011 - \u2705 2687 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,012 - \u274c No content returned for page 2688.
+2025-04-19 17:15:20,023 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2689
+2025-04-19 17:15:20,035 - \u2705 2690 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:20,059 - \u2705 2691 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,071 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2692
+2025-04-19 17:15:20,092 - \u2705 2693 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,111 - \u2705 2694 - 9 publikasi berhasil di-scrape
+2025-04-19 17:15:20,129 - \u2705 2695 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,129 - \u274c No content returned for page 2696.
+2025-04-19 17:15:20,148 - \u2705 2697 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,170 - \u2705 2698 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,190 - \u2705 2699 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,212 - \u2705 2700 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,230 - \u2705 2701 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,248 - \u2705 2702 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,248 - \u274c No content returned for page 2703.
+2025-04-19 17:15:20,267 - \u2705 2704 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,279 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2705
+2025-04-19 17:15:20,298 - \u2705 2706 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,317 - \u2705 2707 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,337 - \u2705 2708 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,355 - \u2705 2709 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,384 - \u2705 2710 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,402 - \u2705 2711 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,420 - \u2705 2712 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,430 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2713
+2025-04-19 17:15:20,452 - \u2705 2714 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,472 - \u2705 2715 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,532 - \u2705 2716 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,573 - \u2705 2717 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,595 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2718
+2025-04-19 17:15:20,606 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2719
+2025-04-19 17:15:20,615 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2720
+2025-04-19 17:15:20,633 - \u2705 2721 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,644 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2722
+2025-04-19 17:15:20,656 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2723
+2025-04-19 17:15:20,668 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2724
+2025-04-19 17:15:20,668 - \u274c No content returned for page 2725.
+2025-04-19 17:15:20,688 - \u2705 2726 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,707 - \u2705 2727 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,732 - \u2705 2728 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,751 - \u2705 2729 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,771 - \u2705 2730 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,789 - \u2705 2731 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,789 - \u274c No content returned for page 2732.
+2025-04-19 17:15:20,808 - \u2705 2733 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,827 - \u2705 2734 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,845 - \u2705 2735 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,863 - \u2705 2736 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,885 - \u2705 2737 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,901 - \u2705 2738 - 6 publikasi berhasil di-scrape
+2025-04-19 17:15:20,927 - \u2705 2739 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,950 - \u2705 2740 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,968 - \u2705 2741 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:20,981 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2742
+2025-04-19 17:15:20,991 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2743
+2025-04-19 17:15:21,001 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2744
+2025-04-19 17:15:21,019 - \u2705 2745 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,043 - \u2705 2746 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,055 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2747
+2025-04-19 17:15:21,065 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2748
+2025-04-19 17:15:21,085 - \u2705 2749 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,085 - \u274c No content returned for page 2750.
+2025-04-19 17:15:21,103 - \u2705 2751 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,115 - \u2705 2752 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:21,133 - \u2705 2753 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,133 - \u274c No content returned for page 2754.
+2025-04-19 17:15:21,148 - \u2705 2755 - 6 publikasi berhasil di-scrape
+2025-04-19 17:15:21,168 - \u2705 2756 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,194 - \u2705 2757 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,263 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2758
+2025-04-19 17:15:21,272 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2759
+2025-04-19 17:15:21,293 - \u2705 2760 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,303 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2761
+2025-04-19 17:15:21,326 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2762
+2025-04-19 17:15:21,474 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2763
+2025-04-19 17:15:21,501 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2764
+2025-04-19 17:15:21,556 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2765
+2025-04-19 17:15:21,595 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2766
+2025-04-19 17:15:21,607 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2767
+2025-04-19 17:15:21,661 - \u2705 2768 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,680 - \u2705 2769 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,700 - \u2705 2770 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,710 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2771
+2025-04-19 17:15:21,710 - \u274c No content returned for page 2772.
+2025-04-19 17:15:21,725 - \u2705 2773 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:21,751 - \u2705 2774 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,766 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2775
+2025-04-19 17:15:21,780 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2776
+2025-04-19 17:15:21,780 - \u274c No content returned for page 2777.
+2025-04-19 17:15:21,793 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2778
+2025-04-19 17:15:21,807 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2779
+2025-04-19 17:15:21,836 - \u2705 2780 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,836 - \u274c No content returned for page 2781.
+2025-04-19 17:15:21,852 - \u2705 2782 - 6 publikasi berhasil di-scrape
+2025-04-19 17:15:21,871 - \u2705 2783 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,881 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2784
+2025-04-19 17:15:21,881 - \u274c No content returned for page 2785.
+2025-04-19 17:15:21,892 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2786
+2025-04-19 17:15:21,905 - \u2705 2787 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:21,917 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2788
+2025-04-19 17:15:21,937 - \u2705 2789 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:21,947 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2790
+2025-04-19 17:15:21,959 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2791
+2025-04-19 17:15:21,976 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2792
+2025-04-19 17:15:21,994 - \u2705 2793 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,005 - \u2705 2794 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:22,016 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2795
+2025-04-19 17:15:22,035 - \u2705 2796 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,051 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2797
+2025-04-19 17:15:22,061 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2798
+2025-04-19 17:15:22,071 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2799
+2025-04-19 17:15:22,071 - \u274c No content returned for page 2800.
+2025-04-19 17:15:22,081 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2801
+2025-04-19 17:15:22,092 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2802
+2025-04-19 17:15:22,107 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2803
+2025-04-19 17:15:22,118 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2804
+2025-04-19 17:15:22,129 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2805
+2025-04-19 17:15:22,148 - \u2705 2806 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,162 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2807
+2025-04-19 17:15:22,162 - \u274c No content returned for page 2808.
+2025-04-19 17:15:22,173 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2809
+2025-04-19 17:15:22,173 - \u274c No content returned for page 2810.
+2025-04-19 17:15:22,181 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2811
+2025-04-19 17:15:22,200 - \u2705 2812 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,211 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2813
+2025-04-19 17:15:22,211 - \u274c No content returned for page 2814.
+2025-04-19 17:15:22,221 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2815
+2025-04-19 17:15:22,221 - \u274c No content returned for page 2816.
+2025-04-19 17:15:22,231 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2817
+2025-04-19 17:15:22,254 - \u2705 2818 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,273 - \u2705 2819 - 9 publikasi berhasil di-scrape
+2025-04-19 17:15:22,273 - \u274c No content returned for page 2820.
+2025-04-19 17:15:22,292 - \u2705 2821 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,292 - \u274c No content returned for page 2822.
+2025-04-19 17:15:22,292 - \u274c No content returned for page 2823.
+2025-04-19 17:15:22,312 - \u2705 2824 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,343 - \u2705 2825 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,343 - \u274c No content returned for page 2826.
+2025-04-19 17:15:22,359 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2827
+2025-04-19 17:15:22,383 - \u2705 2828 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:22,396 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2829
+2025-04-19 17:15:22,409 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2830
+2025-04-19 17:15:22,432 - \u2705 2831 - 7 publikasi berhasil di-scrape
+2025-04-19 17:15:22,432 - \u274c No content returned for page 2832.
+2025-04-19 17:15:22,451 - \u2705 2833 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,463 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2834
+2025-04-19 17:15:22,486 - \u2705 2835 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,498 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2836
+2025-04-19 17:15:22,511 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2837
+2025-04-19 17:15:22,511 - \u274c No content returned for page 2838.
+2025-04-19 17:15:22,521 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2839
+2025-04-19 17:15:22,521 - \u274c No content returned for page 2840.
+2025-04-19 17:15:22,521 - \u274c No content returned for page 2841.
+2025-04-19 17:15:22,533 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2842
+2025-04-19 17:15:22,533 - \u274c No content returned for page 2843.
+2025-04-19 17:15:22,533 - \u274c No content returned for page 2844.
+2025-04-19 17:15:22,552 - \u2705 2845 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,565 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2846
+2025-04-19 17:15:22,565 - \u274c No content returned for page 2847.
+2025-04-19 17:15:22,582 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2848
+2025-04-19 17:15:22,596 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2849
+2025-04-19 17:15:22,616 - \u2705 2850 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,629 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2851
+2025-04-19 17:15:22,629 - \u274c No content returned for page 2852.
+2025-04-19 17:15:22,641 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2853
+2025-04-19 17:15:22,641 - \u274c No content returned for page 2854.
+2025-04-19 17:15:22,663 - \u2705 2855 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,674 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2856
+2025-04-19 17:15:22,684 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2857
+2025-04-19 17:15:22,696 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2858
+2025-04-19 17:15:22,714 - \u2705 2859 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,729 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2860
+2025-04-19 17:15:22,739 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2861
+2025-04-19 17:15:22,749 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2862
+2025-04-19 17:15:22,768 - \u2705 2863 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,788 - \u2705 2864 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:22,808 - \u2705 2865 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,821 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2866
+2025-04-19 17:15:22,846 - \u2705 2867 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,863 - \u2705 2868 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,880 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2869
+2025-04-19 17:15:22,890 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2870
+2025-04-19 17:15:22,905 - \u2705 2871 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,918 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2872
+2025-04-19 17:15:22,918 - \u274c No content returned for page 2873.
+2025-04-19 17:15:22,942 - \u2705 2874 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,965 - \u2705 2875 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,984 - \u2705 2876 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:22,994 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2877
+2025-04-19 17:15:22,994 - \u274c No content returned for page 2878.
+2025-04-19 17:15:23,012 - \u2705 2879 - 8 publikasi berhasil di-scrape
+2025-04-19 17:15:23,035 - \u2705 2880 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,046 - \u2705 2881 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:23,057 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2882
+2025-04-19 17:15:23,057 - \u274c No content returned for page 2883.
+2025-04-19 17:15:23,075 - \u2705 2884 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,095 - \u2705 2885 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,115 - \u2705 2886 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,135 - \u2705 2887 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,154 - \u2705 2888 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,154 - \u274c No content returned for page 2889.
+2025-04-19 17:15:23,178 - \u2705 2890 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,267 - \u2705 2891 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,287 - \u2705 2892 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,287 - \u274c No content returned for page 2893.
+2025-04-19 17:15:23,305 - \u2705 2894 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,325 - \u2705 2895 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,325 - \u274c No content returned for page 2896.
+2025-04-19 17:15:23,325 - \u274c No content returned for page 2897.
+2025-04-19 17:15:23,357 - \u2705 2898 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,357 - \u274c No content returned for page 2899.
+2025-04-19 17:15:23,380 - \u2705 2900 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,381 - \u274c No content returned for page 2901.
+2025-04-19 17:15:23,381 - \u274c No content returned for page 2902.
+2025-04-19 17:15:23,399 - \u2705 2903 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,417 - \u2705 2904 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,417 - \u274c No content returned for page 2905.
+2025-04-19 17:15:23,417 - \u274c No content returned for page 2906.
+2025-04-19 17:15:23,445 - \u2705 2907 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,445 - \u274c No content returned for page 2908.
+2025-04-19 17:15:23,465 - \u2705 2909 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,483 - \u2705 2910 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,503 - \u2705 2911 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,523 - \u2705 2912 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,542 - \u2705 2913 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,542 - \u274c No content returned for page 2914.
+2025-04-19 17:15:23,560 - \u2705 2915 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,578 - \u2705 2916 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,603 - \u2705 2917 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,622 - \u2705 2918 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,642 - \u2705 2919 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,659 - \u2705 2920 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,659 - \u274c No content returned for page 2921.
+2025-04-19 17:15:23,669 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2922
+2025-04-19 17:15:23,688 - \u2705 2923 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,688 - \u274c No content returned for page 2924.
+2025-04-19 17:15:23,708 - \u2705 2925 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,708 - \u274c No content returned for page 2926.
+2025-04-19 17:15:23,726 - \u2705 2927 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,750 - \u2705 2928 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,768 - \u2705 2929 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,784 - \u2705 2930 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,794 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2931
+2025-04-19 17:15:23,817 - \u2705 2932 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,837 - \u2705 2933 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,846 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2934
+2025-04-19 17:15:23,857 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2935
+2025-04-19 17:15:23,867 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2936
+2025-04-19 17:15:23,892 - \u2705 2937 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,910 - \u2705 2938 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,919 - \u2705 2939 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:23,939 - \u2705 2940 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,959 - \u2705 2941 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,959 - \u274c No content returned for page 2942.
+2025-04-19 17:15:23,979 - \u2705 2943 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,979 - \u274c No content returned for page 2944.
+2025-04-19 17:15:23,998 - \u2705 2945 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:23,998 - \u274c No content returned for page 2946.
+2025-04-19 17:15:24,017 - \u2705 2947 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,043 - \u2705 2948 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,052 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2949
+2025-04-19 17:15:24,071 - \u2705 2950 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,071 - \u274c No content returned for page 2951.
+2025-04-19 17:15:24,092 - \u2705 2952 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,101 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2953
+2025-04-19 17:15:24,123 - \u2705 2954 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,141 - \u2705 2955 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,164 - \u2705 2956 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,183 - \u2705 2957 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,211 - \u2705 2958 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,221 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2959
+2025-04-19 17:15:24,242 - \u2705 2960 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,252 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2961
+2025-04-19 17:15:24,262 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2962
+2025-04-19 17:15:24,272 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2963
+2025-04-19 17:15:24,295 - \u2705 2964 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,314 - \u2705 2965 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,336 - \u2705 2966 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,363 - \u2705 2967 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,381 - \u2705 2968 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,393 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2969
+2025-04-19 17:15:24,403 - \u2705 2970 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:24,403 - \u274c No content returned for page 2971.
+2025-04-19 17:15:24,423 - \u2705 2972 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,442 - \u2705 2973 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,442 - \u274c No content returned for page 2974.
+2025-04-19 17:15:24,452 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2975
+2025-04-19 17:15:24,472 - \u2705 2976 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,497 - \u2705 2977 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,516 - \u2705 2978 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,526 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2979
+2025-04-19 17:15:24,546 - \u2705 2980 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,546 - \u274c No content returned for page 2981.
+2025-04-19 17:15:24,558 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2982
+2025-04-19 17:15:24,576 - \u2705 2983 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,576 - \u274c No content returned for page 2984.
+2025-04-19 17:15:24,594 - \u2705 2985 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,614 - \u2705 2986 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,614 - \u274c No content returned for page 2987.
+2025-04-19 17:15:24,614 - \u274c No content returned for page 2988.
+2025-04-19 17:15:24,633 - \u2705 2989 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,655 - \u2705 2990 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,675 - \u2705 2991 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,695 - \u2705 2992 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,712 - \u2705 2993 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,736 - \u2705 2994 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,755 - \u2705 2995 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,755 - \u274c No content returned for page 2996.
+2025-04-19 17:15:24,772 - \u2705 2997 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,781 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2998
+2025-04-19 17:15:24,781 - \u274c No content returned for page 2999.
+2025-04-19 17:15:24,803 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3000
+2025-04-19 17:15:24,815 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3001
+2025-04-19 17:15:24,832 - \u2705 3002 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,843 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3003
+2025-04-19 17:15:24,861 - \u2705 3004 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,879 - \u2705 3005 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,879 - \u274c No content returned for page 3006.
+2025-04-19 17:15:24,897 - \u2705 3007 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:24,914 - \u2705 3008 - 8 publikasi berhasil di-scrape
+2025-04-19 17:15:24,914 - \u274c No content returned for page 3009.
+2025-04-19 17:15:24,932 - \u2705 3010 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,017 - \u2705 3011 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,017 - \u274c No content returned for page 3012.
+2025-04-19 17:15:25,043 - \u2705 3013 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,062 - \u2705 3014 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,062 - \u274c No content returned for page 3015.
+2025-04-19 17:15:25,082 - \u2705 3016 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,100 - \u2705 3017 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,118 - \u2705 3018 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,127 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3019
+2025-04-19 17:15:25,152 - \u2705 3020 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,169 - \u2705 3021 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,169 - \u274c No content returned for page 3022.
+2025-04-19 17:15:25,196 - \u2705 3023 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,206 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3024
+2025-04-19 17:15:25,226 - \u2705 3025 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,245 - \u2705 3026 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,263 - \u2705 3027 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,280 - \u2705 3028 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,298 - \u2705 3029 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,318 - \u2705 3030 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,343 - \u2705 3031 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,360 - \u2705 3032 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,379 - \u2705 3033 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,379 - \u274c No content returned for page 3034.
+2025-04-19 17:15:25,398 - \u2705 3035 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,418 - \u2705 3036 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,437 - \u2705 3037 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,455 - \u2705 3038 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,476 - \u2705 3039 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,499 - \u2705 3040 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,509 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3041
+2025-04-19 17:15:25,528 - \u2705 3042 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,546 - \u2705 3043 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,581 - \u2705 3044 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,592 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3045
+2025-04-19 17:15:25,604 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3046
+2025-04-19 17:15:25,623 - \u2705 3047 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,634 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3048
+2025-04-19 17:15:25,650 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3049
+2025-04-19 17:15:25,671 - \u2705 3050 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,690 - \u2705 3051 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,707 - \u2705 3052 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,720 - \u2705 3053 - 4 publikasi berhasil di-scrape
+2025-04-19 17:15:25,720 - \u274c No content returned for page 3054.
+2025-04-19 17:15:25,740 - \u2705 3055 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,754 - \u2705 3056 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,764 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3057
+2025-04-19 17:15:25,786 - \u2705 3058 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,804 - \u2705 3059 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,816 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3060
+2025-04-19 17:15:25,828 - \u2705 3061 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:25,850 - \u2705 3062 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,861 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3063
+2025-04-19 17:15:25,869 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3064
+2025-04-19 17:15:25,886 - \u2705 3065 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,898 - \u2705 3066 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:25,909 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3067
+2025-04-19 17:15:25,934 - \u2705 3068 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,934 - \u274c No content returned for page 3069.
+2025-04-19 17:15:25,955 - \u2705 3070 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:25,966 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3071
+2025-04-19 17:15:25,980 - \u2705 3072 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:25,990 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3073
+2025-04-19 17:15:26,010 - \u2705 3074 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,022 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3075
+2025-04-19 17:15:26,042 - \u2705 3076 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,064 - \u2705 3077 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,094 - \u2705 3078 - 9 publikasi berhasil di-scrape
+2025-04-19 17:15:26,113 - \u2705 3079 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,133 - \u2705 3080 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,151 - \u2705 3081 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,169 - \u2705 3082 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,180 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3083
+2025-04-19 17:15:26,191 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3084
+2025-04-19 17:15:26,201 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3085
+2025-04-19 17:15:26,214 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3086
+2025-04-19 17:15:26,241 - \u2705 3087 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,241 - \u274c No content returned for page 3088.
+2025-04-19 17:15:26,241 - \u274c No content returned for page 3089.
+2025-04-19 17:15:26,260 - \u2705 3090 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,274 - \u2705 3091 - 4 publikasi berhasil di-scrape
+2025-04-19 17:15:26,284 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3092
+2025-04-19 17:15:26,303 - \u2705 3093 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,316 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3094
+2025-04-19 17:15:26,328 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3095
+2025-04-19 17:15:26,339 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3096
+2025-04-19 17:15:26,349 - \u2705 3097 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:26,360 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3098
+2025-04-19 17:15:26,377 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3099
+2025-04-19 17:15:26,386 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3100
+2025-04-19 17:15:26,396 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3101
+2025-04-19 17:15:26,415 - \u2705 3102 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,426 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3103
+2025-04-19 17:15:26,426 - \u274c No content returned for page 3104.
+2025-04-19 17:15:26,443 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3105
+2025-04-19 17:15:26,469 - \u2705 3106 - 9 publikasi berhasil di-scrape
+2025-04-19 17:15:26,485 - \u2705 3107 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:26,509 - \u2705 3108 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,518 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3109
+2025-04-19 17:15:26,519 - \u274c No content returned for page 3110.
+2025-04-19 17:15:26,536 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3111
+2025-04-19 17:15:26,550 - \u2705 3112 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:26,564 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3113
+2025-04-19 17:15:26,586 - \u2705 3114 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,586 - \u274c No content returned for page 3115.
+2025-04-19 17:15:26,609 - \u2705 3116 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,619 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3117
+2025-04-19 17:15:26,642 - \u2705 3118 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,653 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3119
+2025-04-19 17:15:26,666 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3120
+2025-04-19 17:15:26,687 - \u2705 3121 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,806 - \u2705 3122 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,806 - \u274c No content returned for page 3123.
+2025-04-19 17:15:26,829 - \u2705 3124 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,850 - \u2705 3125 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,873 - \u2705 3126 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,884 - \u2705 3127 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:26,884 - \u274c No content returned for page 3128.
+2025-04-19 17:15:26,909 - \u2705 3129 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,943 - \u2705 3130 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,964 - \u2705 3131 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:26,994 - \u2705 3132 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,013 - \u2705 3133 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,033 - \u2705 3134 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,054 - \u2705 3135 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,077 - \u2705 3136 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,077 - \u274c No content returned for page 3137.
+2025-04-19 17:15:27,098 - \u2705 3138 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,118 - \u2705 3139 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,140 - \u2705 3140 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,170 - \u2705 3141 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,193 - \u2705 3142 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,216 - \u2705 3143 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,239 - \u2705 3144 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,261 - \u2705 3145 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,283 - \u2705 3146 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,304 - \u2705 3147 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,304 - \u274c No content returned for page 3148.
+2025-04-19 17:15:27,330 - \u2705 3149 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,362 - \u2705 3150 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,385 - \u2705 3151 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,404 - \u2705 3152 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,423 - \u2705 3153 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,423 - \u274c No content returned for page 3154.
+2025-04-19 17:15:27,446 - \u2705 3155 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,467 - \u2705 3156 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,487 - \u2705 3157 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,506 - \u2705 3158 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,532 - \u2705 3159 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,532 - \u274c No content returned for page 3160.
+2025-04-19 17:15:27,546 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3161
+2025-04-19 17:15:27,546 - \u274c No content returned for page 3162.
+2025-04-19 17:15:27,558 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3163
+2025-04-19 17:15:27,567 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3164
+2025-04-19 17:15:27,589 - \u2705 3165 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,597 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3166
+2025-04-19 17:15:27,607 - \u2705 3167 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:27,618 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3168
+2025-04-19 17:15:27,633 - \u2705 3169 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:27,652 - \u2705 3170 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,678 - \u2705 3171 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,689 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3172
+2025-04-19 17:15:27,689 - \u274c No content returned for page 3173.
+2025-04-19 17:15:27,710 - \u2705 3174 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,728 - \u2705 3175 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,746 - \u2705 3176 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,765 - \u2705 3177 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,780 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3178
+2025-04-19 17:15:27,800 - \u2705 3179 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,828 - \u2705 3180 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,847 - \u2705 3181 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,858 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3182
+2025-04-19 17:15:27,874 - \u2705 3183 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,894 - \u2705 3184 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,911 - \u2705 3185 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:27,911 - \u274c No content returned for page 3186.
+2025-04-19 17:15:27,920 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3187
+2025-04-19 17:15:27,938 - \u2705 3188 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:27,948 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3189
+2025-04-19 17:15:27,968 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3190
+2025-04-19 17:15:27,987 - \u2705 3191 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,008 - \u2705 3192 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,018 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3193
+2025-04-19 17:15:28,036 - \u2705 3194 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,036 - \u274c No content returned for page 3195.
+2025-04-19 17:15:28,058 - \u2705 3196 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,068 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3197
+2025-04-19 17:15:28,089 - \u2705 3198 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,107 - \u2705 3199 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,133 - \u2705 3200 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,151 - \u2705 3201 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,169 - \u2705 3202 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,187 - \u2705 3203 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,206 - \u2705 3204 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,225 - \u2705 3205 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,244 - \u2705 3206 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,270 - \u2705 3207 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,298 - \u2705 3208 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,309 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3209
+2025-04-19 17:15:28,329 - \u2705 3210 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,346 - \u2705 3211 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,369 - \u2705 3212 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,379 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3213
+2025-04-19 17:15:28,379 - \u274c No content returned for page 3214.
+2025-04-19 17:15:28,399 - \u2705 3215 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,399 - \u274c No content returned for page 3216.
+2025-04-19 17:15:28,417 - \u2705 3217 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,427 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3218
+2025-04-19 17:15:28,450 - \u2705 3219 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,469 - \u2705 3220 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,469 - \u274c No content returned for page 3221.
+2025-04-19 17:15:28,487 - \u2705 3222 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,505 - \u2705 3223 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,524 - \u2705 3224 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,545 - \u2705 3225 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,555 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3226
+2025-04-19 17:15:28,555 - \u274c No content returned for page 3227.
+2025-04-19 17:15:28,555 - \u274c No content returned for page 3228.
+2025-04-19 17:15:28,565 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3229
+2025-04-19 17:15:28,587 - \u2705 3230 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,587 - \u274c No content returned for page 3231.
+2025-04-19 17:15:28,670 - \u2705 3232 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,713 - \u2705 3233 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,733 - \u2705 3234 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,754 - \u2705 3235 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,770 - \u2705 3236 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,779 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3237
+2025-04-19 17:15:28,786 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3238
+2025-04-19 17:15:28,804 - \u2705 3239 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,825 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3240
+2025-04-19 17:15:28,834 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3241
+2025-04-19 17:15:28,852 - \u2705 3242 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,871 - \u2705 3243 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,882 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3244
+2025-04-19 17:15:28,893 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3245
+2025-04-19 17:15:28,912 - \u2705 3246 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,930 - \u2705 3247 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,940 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3248
+2025-04-19 17:15:28,982 - \u2705 3249 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:28,992 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3250
+2025-04-19 17:15:29,001 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3251
+2025-04-19 17:15:29,014 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3252
+2025-04-19 17:15:29,027 - \u2705 3253 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:29,036 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3254
+2025-04-19 17:15:29,046 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3255
+2025-04-19 17:15:29,046 - \u274c No content returned for page 3256.
+2025-04-19 17:15:29,062 - \u2705 3257 - 8 publikasi berhasil di-scrape
+2025-04-19 17:15:29,072 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3258
+2025-04-19 17:15:29,087 - \u2705 3259 - 7 publikasi berhasil di-scrape
+2025-04-19 17:15:29,087 - \u274c No content returned for page 3260.
+2025-04-19 17:15:29,102 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3261
+2025-04-19 17:15:29,126 - \u2705 3262 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,144 - \u2705 3263 - 8 publikasi berhasil di-scrape
+2025-04-19 17:15:29,144 - \u274c No content returned for page 3264.
+2025-04-19 17:15:29,145 - \u274c No content returned for page 3265.
+2025-04-19 17:15:29,163 - \u2705 3266 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,180 - \u2705 3267 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,200 - \u2705 3268 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,213 - \u2705 3269 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:29,223 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3270
+2025-04-19 17:15:29,241 - \u2705 3271 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,267 - \u2705 3272 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,277 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3273
+2025-04-19 17:15:29,299 - \u2705 3274 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,313 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3275
+2025-04-19 17:15:29,333 - \u2705 3276 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,343 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3277
+2025-04-19 17:15:29,361 - \u2705 3278 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,361 - \u274c No content returned for page 3279.
+2025-04-19 17:15:29,379 - \u2705 3280 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,391 - \u2705 3281 - 3 publikasi berhasil di-scrape
+2025-04-19 17:15:29,415 - \u2705 3282 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,429 - \u2705 3283 - 5 publikasi berhasil di-scrape
+2025-04-19 17:15:29,447 - \u2705 3284 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,465 - \u2705 3285 - 2 publikasi berhasil di-scrape
+2025-04-19 17:15:29,477 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3286
+2025-04-19 17:15:29,487 - \u2705 3287 - 1 publikasi berhasil di-scrape
+2025-04-19 17:15:29,487 - \u274c No content returned for page 3288.
+2025-04-19 17:15:29,497 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3289
+2025-04-19 17:15:29,497 - \u274c No content returned for page 3290.
+2025-04-19 17:15:29,518 - \u2705 3291 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,518 - \u274c No content returned for page 3292.
+2025-04-19 17:15:29,518 - \u274c No content returned for page 3293.
+2025-04-19 17:15:29,518 - \u274c No content returned for page 3294.
+2025-04-19 17:15:29,536 - \u2705 3295 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,537 - \u274c No content returned for page 3296.
+2025-04-19 17:15:29,537 - \u274c No content returned for page 3297.
+2025-04-19 17:15:29,558 - \u2705 3298 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,580 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3299
+2025-04-19 17:15:29,580 - \u274c No content returned for page 3300.
+2025-04-19 17:15:29,580 - \u274c No content returned for page 3301.
+2025-04-19 17:15:29,597 - \u2705 3302 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,597 - \u274c No content returned for page 3303.
+2025-04-19 17:15:29,598 - \u274c No content returned for page 3304.
+2025-04-19 17:15:29,609 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 3305
+2025-04-19 17:15:29,609 - \u274c No content returned for page 3306.
+2025-04-19 17:15:29,609 - \u274c No content returned for page 3307.
+2025-04-19 17:15:29,609 - \u274c No content returned for page 3308.
+2025-04-19 17:15:29,632 - \u2705 3309 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3310.
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3311.
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3312.
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3313.
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3314.
+2025-04-19 17:15:29,644 - \u274c No content returned for page 3315.
+2025-04-19 17:15:29,666 - \u2705 3316 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,667 - \u274c No content returned for page 3317.
+2025-04-19 17:15:29,667 - \u274c No content returned for page 3318.
+2025-04-19 17:15:29,667 - \u274c No content returned for page 3319.
+2025-04-19 17:15:29,686 - \u2705 3320 - 10 publikasi berhasil di-scrape
+2025-04-19 17:15:29,686 - \u274c No content returned for page 3321.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3322.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3323.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3324.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3325.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3326.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3327.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3328.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3329.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3330.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3331.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3332.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3333.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3334.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3335.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3336.
+2025-04-19 17:15:29,687 - \u274c No content returned for page 3337.
+2025-04-19 17:15:29,744 - \U0001f389 Scraping selesai! Data tersimpan di data/data_sinta.csv
+2025-04-19 17:15:29,747 - Scraping selesai! Data tersimpan di data/data_sinta.csv
