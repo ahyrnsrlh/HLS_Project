@@ -1,17 +1,21 @@
 from scraper import scrape_sinta
 import logging
 import argparse
+import asyncio
 
 # Konfigurasi logging
 logging.basicConfig(filename="logs/scraper.log", level=logging.INFO, format="%(asctime)s - %(message)s")
 
-def main(start_page, end_page, output_csv):
+async def main_async(start_page, end_page, output_csv):
     logging.info("Memulai scraping publikasi dari SINTA...")
     try:
-        scrape_sinta(start_page, end_page, output_csv)
+        await scrape_sinta(start_page, end_page, output_csv)
     except Exception as e:
         logging.error(f"❌ Error during scraping: {str(e)}")
     logging.info("Scraping selesai! Data tersimpan di {}".format(output_csv))
+
+def main(start_page, end_page, output_csv):
+    asyncio.run(main_async(start_page, end_page, output_csv))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape publications from SINTA.")

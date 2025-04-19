@@ -109,3 +109,26 @@
 2025-04-16 23:23:38,114 - Memulai scraping publikasi dari SINTA...
 2025-04-16 23:23:38,115 - \u274c Error during scraping: scrape_sinta() takes 0 positional arguments but 3 were given
 2025-04-16 23:23:38,115 - Scraping selesai! Data tersimpan di data/data_sinta.csv
+2025-04-19 16:52:22,016 - Memulai scraping publikasi dari SINTA...
+2025-04-19 16:52:22,578 - \u2705 2503 - 10 publikasi berhasil di-scrape
+2025-04-19 16:52:22,586 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2504
+2025-04-19 16:52:22,608 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2505
+2025-04-19 16:52:22,620 - \U0001f389 Scraping selesai! Data tersimpan di data/data_sinta_fixed.csv
+2025-04-19 16:52:22,624 - Scraping selesai! Data tersimpan di data/data_sinta_fixed.csv
+2025-04-19 16:54:27,302 - Memulai scraping publikasi dari SINTA...
+2025-04-19 16:54:27,621 - \u2705 2503 - 10 publikasi berhasil di-scrape
+2025-04-19 16:54:27,643 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2504
+2025-04-19 16:54:27,664 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2505
+2025-04-19 16:54:27,673 - \U0001f389 Scraping selesai! Data tersimpan di data/data_sinta_complete.csv
+2025-04-19 16:54:27,674 - Scraping selesai! Data tersimpan di data/data_sinta_complete.csv
+2025-04-19 16:55:04,010 - Memulai scraping publikasi dari SINTA...
+2025-04-19 16:55:04,477 - \u2705 2503 - 10 publikasi berhasil di-scrape
+2025-04-19 16:55:04,497 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2504
+2025-04-19 16:55:04,523 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2505
+2025-04-19 16:55:04,549 - \u2705 2506 - 10 publikasi berhasil di-scrape
+2025-04-19 16:55:04,565 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2507
+2025-04-19 16:55:04,583 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2508
+2025-04-19 16:55:04,606 - \u26a0\ufe0f Tidak ada publikasi ditemukan di halaman 2509
+2025-04-19 16:55:04,640 - \u2705 2510 - 10 publikasi berhasil di-scrape
+2025-04-19 16:55:04,646 - \U0001f389 Scraping selesai! Data tersimpan di data/data_sinta_final.csv
+2025-04-19 16:55:04,648 - Scraping selesai! Data tersimpan di data/data_sinta_final.csv
